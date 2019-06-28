@@ -1,5 +1,8 @@
 _repo: Epidemics-Resulting-from-Wars_59822
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59822-h/images/cover.jpg
 creator:
   author:
     agent_name: Prinzing, Friedrich
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '50645'
     url: http://www.gutenberg.org/2009/agents/50645
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59822#Epidemics-Resulting-from-Wars
 gutenberg_issued: '2019-06-27'
 gutenberg_type: Text
 identifiers:
