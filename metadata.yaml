@@ -1,0 +1,24 @@
+_repo: Epidemics-Resulting-from-Wars_59822
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Prinzing, Friedrich
+    gutenberg_agent_id: '50644'
+    url: http://www.gutenberg.org/2009/agents/50644
+  editor:
+    agent_name: Wesstergaard, Harald
+    gutenberg_agent_id: '50645'
+    url: http://www.gutenberg.org/2009/agents/50645
+description: ''
+gutenberg_issued: '2019-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59822'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Epidemics Resulting from Wars
+url: http://www.gutenberg.org/ebooks/59822
